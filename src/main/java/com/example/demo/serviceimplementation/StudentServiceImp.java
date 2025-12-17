@@ -5,6 +5,6 @@ import com.example.demo.service.service;
 import com.example.demo.service.Studentservice;
 
 @service
-public class Stuserviceimpl implements Stuservice{
+public class StudentServiceImp implements Studentservice{
     
 }
